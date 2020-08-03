@@ -35,3 +35,18 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+### New page
+
+Simple DevOps Project
+This Repository is a collection of Implementation documents.
+
+Purpose:
+By following this repository you can able to setup a DevOps CI/CD Pipeline using
+
+git
+Jenkins
+Maven
+Ansible
+Docker &
+Kubernetes
