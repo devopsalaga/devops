@@ -1,5 +1,10 @@
 ## Welcome to my GitHub Pages
 
+**Certifications**
+* Certified Kubernetes Administrator
+* AWS Certified SysOps
+* Terraform Associate Certificate
+* Ansible Certification
 
 ### Setting up environments
 
@@ -35,7 +40,7 @@ By following this repository you can able to setup a DevOps CI/CD Pipeline using
 * Cisco ASA SSL VPN Project
 * Colocation Data Center Project
 
-**Using DevOps for ESRI GIS Enterprise Environments
+**Using DevOps for ESRI GIS Enterprise Environments**
 
 * Using AWS
 * Building GIS Pipelines
