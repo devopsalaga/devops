@@ -19,16 +19,26 @@ By following this repository you can able to setup a DevOps CI/CD Pipeline using
 **DevOps Projects**
 
 * Ansible setup
+ * Project
 * Chef setup
+ * Project
 * Docker Setup
+ * Project
 * Kubernetes
+ * Project
 * Service Mesh with Istio
+ * Project
 
-**DevOps and Networking Routers and Switches Setups**
+**Using DevOps and Cisco Networking Routers and Switches Setups**
 
 * Headquarter FullStack Networking Project
 * Cisco ASA SSL VPN Project
 * Colocation Data Center Project
+
+**Using DevOps for ESRI GIS Enterprise Environments
+
+* Using AWS
+* Building GIS Pipelines
 
 **Troubleshooting**
 * Cisco IOS Networks
