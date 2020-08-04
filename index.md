@@ -1,6 +1,6 @@
 ## Welcome to my GitHub Pages
 
-###Certifications###
+###Certifications
 * Certified Kubernetes Administrator
 * AWS Certified SysOps
 * Terraform Associate Certificate
@@ -21,7 +21,7 @@ By following this repository you can able to setup a DevOps CI/CD Pipeline using
 * Docker &
 * Kubernetes
 
-###DevOps Projects###
+###DevOps Projects
 
 * Ansible setup
  * Project
@@ -34,18 +34,18 @@ By following this repository you can able to setup a DevOps CI/CD Pipeline using
 * Service Mesh with Istio
  * Project
 
-###Using DevOps and Cisco Networking Routers and Switches Setups###
+###Using DevOps and Cisco Networking Routers and Switches Setups
 
 * Headquarter FullStack Networking Project
 * Cisco ASA SSL VPN Project
 * Colocation Data Center Project
 
-###Using DevOps for ESRI GIS Enterprise Environments###
+###Using DevOps for ESRI GIS Enterprise Environments
 
 * Using AWS
 * Building GIS Pipelines
 
-###Troubleshooting###
+###Troubleshooting
 * Cisco IOS Networks
 * DevOps / DevSecOps pipelines and configurations
 
