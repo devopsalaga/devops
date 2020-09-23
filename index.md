@@ -1,10 +1,14 @@
 ## Welcome to my GitHub Pages
 
-### Certifications
+### DevOps Certifications
 * Certified Kubernetes Administrator
 * AWS Certified SysOps
 * Terraform Associate Certificate
 * Ansible Certification
+
+### Cisco Networking Certifications
+* FSNA (Full Stack Networking Associate)
+* FSNP (Full Stack Networking Professional)
 
 ### Setting up environments
 
